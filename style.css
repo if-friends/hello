@@ -1,0 +1,56 @@
+
+body{
+    margin: 0;
+}
+
+
+.l1{
+    color: rgb(255, 0, 0);
+}
+.l2{
+    color: rgb(251, 255, 0);
+}
+
+.l3{
+    color: rgb(0, 255, 0);
+}
+.l4{
+    color: rgb(0, 234, 255);
+}
+.l5{
+    color: rgb(0, 38, 255);
+}
+.l6{
+    color: rgb(217, 0, 255);
+}
+.l7{
+    color: chartreuse;
+}
+ 
+.l9{
+    color: rgb(210, 30, 30);
+}
+.l10{
+    padding-left: 10px ;
+    color: rgb(238, 234, 9);
+}
+.l11{
+    color: rgb(16, 240, 46);
+}
+.l12{
+    color:rgb(22, 241, 241);
+}
+
+.text{
+    text-align: center;
+    font-size: 90px;
+}
+
+.img{
+    background: url('11.jpg');
+    width: 100%;
+    background-size: cover;
+    height: 720px;
+}
+
+}
